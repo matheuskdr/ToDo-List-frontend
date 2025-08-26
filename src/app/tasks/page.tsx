@@ -2,6 +2,8 @@ import { Page } from "@/template/Page";
 
 export default function Home() {
   return (
-   <Page>Opa</Page>
+    <Page>
+      <h1>tasks</h1>
+    </Page>
   );
 }
